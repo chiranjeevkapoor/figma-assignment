@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto:wght@400;500;700&family=Work+Sans:wght@100&display=swap");
+
+.nav-logos {
+  display: flex;
+  position: relative;
+  left: 75rem;
+}
+.free-del {
+  background-color: black;
+  color: white;
+}
+.corporate-header {
+  padding-top: 45px;
+}
+.head-div {
+  height: 163px;
+  background-color: #f7f7f7;
+}
+.card-text {
+  text-align: left;
+  padding-left: 3px;
+  font-size: 20px;
+  color: #db4444;
+}
+.review-span {
+  color: grey;
+  font-size: 12px;
+}
+.card-items {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+}
+.card-styles {
+  flex-basis: 25%;
+  padding: 2rem;
+  border: none !important;
+}
+.filter-class {
+  width: 25%;
+  text-align: left;
+}
+.main-div {
+  display: flex;
+}
+li {
+  list-style-type: none;
+}
+.producttype-para {
+  position: relative;
+  left: 5rem;
+}
+.footer-div {
+  display: flex;
+  background-color: #121212;
+  color: white;
+  height: 250px;
+}
+.left-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: baseline;
+  padding-left: 250px;
+  width: 50%;
+}
+.right-footer {
+  padding-top: 3rem;
+  display: flex;
+  align-items: flex-start;
+  width: 70%;
+  justify-content: center;
+  align-content: stretch;
+  flex-wrap: nowrap;
+}
+.collection-div {
+  text-align: left;
+  flex-wrap: wrap;
+  padding-right: 20px;
+  margin-right: 10px;
+  flex-basis: 17.5%;
+}
+
+ul.collection-div {
+  padding-left: 0;
+}
+hr {
+  color: white;
+  size: 2px;
+  width: 80%;
+  align-self: center;
+  position: absolute;
+  left: 5rem;
+}
+.all-footer-div {
+  background-color: #121212;
+}
+.footer-heading {
+  font-weight: 700;
+}
+.product-num:hover {
+  color: orange;
+}
+.producttype-para {
+  position: relative;
+  left: 2rem;
+}
+.size-button {
+  background-color: white;
+  color: black;
+  border: 1px solid #e5e5e5;
+  border-radius: 2px;
+}
+.size-button:hover {
+  background-color: black;
+  color: white;
+}
+.button-main-div {
+  display: flex;
+  justify-content: space-evenly;
+}
+.upper-nav {
+  position: relative;
+  left: 4rem;
+  top: 1rem;
+}
